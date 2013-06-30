@@ -1,1 +1,1 @@
-使用Gui后能使用ssh可，难道是tortoiseGit的原因。
+使用Gui后能使用ssh可，难道是tortoiseGit的原因----疏忽大意，生成的key中有注释
