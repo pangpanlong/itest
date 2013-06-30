@@ -1,0 +1,1 @@
+使用Gui后能使用ssh可，难道是tortoiseGit的原因。
